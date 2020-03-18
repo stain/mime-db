@@ -730,6 +730,7 @@
   },
   "text/n3": {
     "compressible": true,
+    "extensions": ["n3"],
     "sources": [
       "http://en.wikipedia.org/wiki/Notation3"
     ]
@@ -765,6 +766,7 @@
   },
   "text/turtle": {
     "charset": "UTF-8",
+    "extensions": ["ttl"],
     "sources": [
       "https://www.w3.org/TR/turtle/#h3_sec-mime"
     ]
